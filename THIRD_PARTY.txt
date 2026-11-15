@@ -1,0 +1,19 @@
+Сторонние компоненты / Third-party notices
+=========================================
+
+FFmpeg is not included in the initial archive.
+The application downloads the Windows 'release essentials' archive at:
+https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip
+
+The project's official download page links to these Windows builds:
+https://ffmpeg.org/download.html
+
+The gyan.dev builds are licensed under GPLv3 (according to the build site).
+Before redistributing a copy of the folder that contains downloaded FFmpeg
+binaries, please review the applicable GPLv3 requirements, include the
+necessary notices, and provide the corresponding source/offer as required.
+FFmpeg licensing information: https://ffmpeg.org/legal.html
+Gyan.dev builds and source pointers: https://www.gyan.dev/ffmpeg/builds/
+
+This custom GUI and downloader are provided as editable source files. They
+invoke FFmpeg as an external program.
