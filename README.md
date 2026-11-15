@@ -4,6 +4,8 @@ A simple, portable **AVI → MP4 video converter** with a graphical interface. N
 
 Built with **Windows PowerShell + Windows Forms** and powered by **FFmpeg**. The interface is currently in **Russian**.
 
+Watch full video how it works: https://youtu.be/9JjOafuylc4
+
 ## Features
 
 - **Batch conversion:** add multiple AVI files and process them one after another.
